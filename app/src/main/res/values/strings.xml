@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="title_activity_main">Test App</string>
+    <string name="cards_text">Карточки</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="confirm_button_text">Подтвердить</string>
+    <string name="post">Пост</string>
+    <string name="comment">Комментарий</string>
+    <string name="users">Пользователи</string>
+    <string name="photos">Фото</string>
+    <string name="todos">Задача</string>
+    <string name="enter_id">Введите id</string>
+    <string name="post_edit_text_hint">Id от 1 до 100</string>
+    <string name="comment_edit_text_hint">Id от 1 до 500</string>
+    <string name="task_is_completed">Выполнено</string>
+    <string name="task_is_not_completed">Не выполнено</string>
+    <string name="my_email">ezhoden@mail.ru</string>
+    <string name="my_phone">+7-925-840-69-58</string>
+    <string name="git">GitHub:</string>
+    <string name="my_git">github.com/DenisHedgehog</string>
+    <string name="internet_warning">Чтобы просмотреть карточки, включите интернет и перезапустите приложение</string>
+    <string name="comment_error">При загрузке комментария произошла ошибка</string>
+    <string name="post_error">При загрузке поста произошла ошибка</string>
+    <string name="users_error">Произошла ошибка при загрузке пользователей</string>
+    <string name="photo_error">Произошла ошибка при загрузке фото</string>
+    <string name="name_warning">Произошла ошибка при загрузке имени пользователя</string>
+    <string name="todos_warning">Произошла ошибка при загрузке задачи</string>
+</resources>
