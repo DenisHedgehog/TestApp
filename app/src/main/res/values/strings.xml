@@ -14,8 +14,8 @@
     <string name="comment_edit_text_hint">Id от 1 до 500</string>
     <string name="task_is_completed">Выполнено</string>
     <string name="task_is_not_completed">Не выполнено</string>
-    <string name="my_email">ezhoden@mail.ru</string>
-    <string name="my_phone">+7-925-840-69-58</string>
+    <string name="my_email">*******@mail.ru</string>
+    <string name="my_phone">+*-***-***-**-**</string>
     <string name="git">GitHub:</string>
     <string name="my_git">github.com/DenisHedgehog</string>
     <string name="internet_warning">Чтобы просмотреть карточки, включите интернет и перезапустите приложение</string>
